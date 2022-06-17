@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   Image,ExpoFont
 } from 'react-native';
-import * as Speech from 'expo-speech';
+import Speech from 'expo-speech';
 import { Header } from 'react-native-elements';
 
 
